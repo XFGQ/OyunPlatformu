@@ -1,0 +1,9 @@
+﻿  Main.cpp
+F:\C++\OyunPlatformu\Main.cpp(127,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\C++\OyunPlatformu\Main.cpp(197,5): warning C4102: 'tekrarsec': unreferenced label
+F:\C++\OyunPlatformu\Main.cpp(494,43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\C++\OyunPlatformu\Main.cpp(634,35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\C++\OyunPlatformu\Main.cpp(395,9): warning C4102: 'exit': unreferenced label
+F:\C++\OyunPlatformu\Main.cpp(438,21): warning C4102: 'tekrarsec': unreferenced label
+F:\C++\OyunPlatformu\Main.cpp(352,9): warning C4101: 'Girissecim': unreferenced local variable
+  OyunPlatformu.vcxproj -> F:\C++\OyunPlatformu\x64\Debug\OyunPlatformu.exe
